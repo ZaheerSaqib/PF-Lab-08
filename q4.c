@@ -1,6 +1,3 @@
-/* Q4_3d_layer_analysis.c
-   3x3x3 array layer-wise totals and overall insights.
-*/
 #include <stdio.h>
 #include <limits.h>
 
@@ -50,3 +47,4 @@ int main() {
 
     return 0;
 }
+

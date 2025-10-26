@@ -1,6 +1,3 @@
-/* Q3_matrix_multiplication.c
-   Multiply two matrices (max size 3x3). Validate dimensions, then use 3 nested loops.
-*/
 #include <stdio.h>
 
 int main() {
@@ -61,3 +58,4 @@ int main() {
 
     return 0;
 }
+
